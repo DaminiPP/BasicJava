@@ -27,7 +27,7 @@ public class IFElseConcept {
 			System.out.println("c & d are not equal");
 		}
 		
-		//write a logic to find highest number
+		//write a logic to find the highest number
 		
 		int a1=100;
 		int b1=200;
