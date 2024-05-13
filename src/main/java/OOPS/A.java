@@ -1,6 +1,6 @@
 package OOPS;
 
-public class A {
+public class A  extends MultipleClassTest{
 
 	public A() {
 		System.out.println("A Class Default Constructor");
